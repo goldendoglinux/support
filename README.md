@@ -14,7 +14,7 @@ This is another way to obtain support, though volunteers might not be available 
 
 ## Documentation
 
-Visit [https://goldendoglinux.org/docs](https://goldendoglinux.org/docs) To see if your question has already been answered in a document.
+Visit [https://goldendoglinux.org/docs/intro](https://goldendoglinux.org/docs/intro) To see if your question has already been answered in a document.
 
 Docs are available in English and Spanish. Use the language switcher up top on the website. Default is English.
 
